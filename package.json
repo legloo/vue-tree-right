@@ -1,0 +1,15 @@
+{
+  "name": "vue-tree-right",
+  "version": "1.0.0",
+  "description": "a tree component for Vue.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-tree",
+    "tree"
+  ],
+  "author": "yuhao_zhu@yeah.net",
+  "license": "MIT"
+}
