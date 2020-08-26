@@ -1,6 +1,6 @@
 {
   "name": "vue-tree-right",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a tree component for Vue.",
   "main": "lib/index.js",
   "scripts": {

@@ -87,3 +87,8 @@
 
 # Preview
 ![image](https://github.com/zhuyuhaoliar/vue-tree-right/blob/master/20200826150513.jpg?raw=true)
+
+# notice
+## Id is a must. It can be any string that does not repeat;
+## if showFields have no length,you will see nothing in box *_*;
+## vue-tree-down will coming soon ~~~~~~~;
